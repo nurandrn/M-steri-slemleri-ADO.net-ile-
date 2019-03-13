@@ -1,0 +1,25 @@
+c:\users\samsung\documents\visual studio 2012\Projects\CsharpSQL\CsharpSQL\bin\Debug\CsharpSQL.exe.config
+c:\users\samsung\documents\visual studio 2012\Projects\CsharpSQL\CsharpSQL\bin\Debug\CsharpSQL.exe
+c:\users\samsung\documents\visual studio 2012\Projects\CsharpSQL\CsharpSQL\bin\Debug\CsharpSQL.pdb
+c:\users\samsung\documents\visual studio 2012\Projects\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2012\Projects\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.Form1.resources
+c:\users\samsung\documents\visual studio 2012\Projects\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2012\Projects\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.csproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2012\Projects\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.exe
+c:\users\samsung\documents\visual studio 2012\Projects\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.pdb
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\CsharpSQL\CsharpSQL\bin\Debug\CsharpSQL.exe.config
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.exe
+C:\Users\asus\Desktop\stajjjjjjjjjjjjjjj\visual studio\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.pdb
+C:\Users\asus\Desktop\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\CsharpSQL\CsharpSQL\bin\Debug\CsharpSQL.exe.config
+C:\Users\asus\Desktop\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.exe
+C:\Users\asus\Desktop\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.pdb
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\CsharpSQL\CsharpSQL\bin\Debug\CsharpSQL.exe.config
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\CsharpSQL\CsharpSQL\bin\Debug\CsharpSQL.exe
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\CsharpSQL\CsharpSQL\bin\Debug\CsharpSQL.pdb
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.csprojAssemblyReference.cache
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.Form1.resources
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.Properties.Resources.resources
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.csproj.GenerateResource.cache
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.csproj.CoreCompileInputs.cache
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.exe
+D:\dersler\staj defterleri\stajjjjjjjjjjjjjjj\visual studio\CsharpSQL\CsharpSQL\obj\Debug\CsharpSQL.pdb
